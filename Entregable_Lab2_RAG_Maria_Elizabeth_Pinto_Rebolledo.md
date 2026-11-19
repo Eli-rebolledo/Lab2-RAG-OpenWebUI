@@ -36,7 +36,7 @@ Aunque mencionó información adicional sobre el código de conectividad (#INV-C
 
 Se muestra la respuesta del modelo sin consultar la base de conocimiento, donde no proporcionó el valor ni el código del auxilio de conectividad.
 
-![Captura 1 - Antes del RAG](evidencias/prueba-antes-rag.png)
+![Captura 1 - Antes del RAG](evidencias\prueba-antes-rag.png)
 
 ### Captura 2: Documento cargado en Knowledge
 
