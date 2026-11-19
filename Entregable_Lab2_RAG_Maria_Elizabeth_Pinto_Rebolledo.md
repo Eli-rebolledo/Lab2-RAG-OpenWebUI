@@ -33,22 +33,25 @@ Aunque mencionó información adicional sobre el código de conectividad (#INV-C
 ## 4. Evidencias Adjuntas (Capturas de Pantalla)
 
 ### Captura 1: Comportamiento antes del RAG
+
 Se muestra la respuesta del modelo sin consultar la base de conocimiento, donde no proporcionó el valor ni el código del auxilio de conectividad.
 
-![Captura 1 - Antes del RAG](evidencias/Prueba antes del RAG.png)
+![Captura 1 - Antes del RAG](evidencias/prueba-antes-rag.png)
 
 ### Captura 2: Documento cargado en Knowledge
+
 Se muestra la colección `Politicas-Innovatech-2027` y el documento `politica_innovatech_2027.txt` utilizado para realizar las consultas.
 
 ![Captura 2 - Documento RAG](evidencias/documento-rag.png)
 
 ### Captura 3: Respuesta después del RAG
+
 Se muestra la respuesta correcta sobre el auxilio de conectividad, incluyendo el valor de $245.000 COP y el código interno.
 
-![Captura 3 - Después del RAG](evidencias\prueba después del RAG.png)
+![Captura 3 - Después del RAG](evidencias/prueba-despues-rag.png)
 
 ### Captura 4: Prueba anti-alucinación
+
 Se muestra cómo el modelo reconoce que no dispone de información sobre el horario de la cafetería los sábados.
 
-![Captura 4 - Anti-alucinación](evidencias/Pregunta sobre la cafetería.png)
-
+![Captura 4 - Anti-alucinación](evidencias/prueba-anti-alucinacion.png)
