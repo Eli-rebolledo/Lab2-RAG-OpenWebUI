@@ -1,0 +1,44 @@
+Conectando a http://localhost:3000/api | Modelo: asistente-innovatech-2027...
+
+Modelo 'asistente-innovatech-2027' encontrado en Open WebUI.
+
+==============================================================================
+[1/5] Presentación
+Pregunta: Hola, preséntate brevemente y dime qué tipo de asistencia puedes brindarme.
+--- Respuesta del Modelo ---
+Como asistente interno de Innovatech Colombia S.A.S., puedo proporcionarte la información necesaria sobre las políticas internas del empresa de acuerdo a la política interna 2027. [source_id]
+
+(Tiempo de respuesta: 72.99 s)
+
+==============================================================================
+[2/5] Dato exacto
+Pregunta: ¿Cuánto es el auxilio de conectividad 2027 y cuál es su código?
+--- Respuesta del Modelo ---
+El auxilio de conectividad 2027 es de $245.000 COP y su código interno para solicitarlo en el portal financiero es #INV-CON-2027.
+
+(Tiempo de respuesta: 20.11 s)
+
+==============================================================================
+[3/5] Condicional / Rol
+Pregunta: Llevo 8 meses en la empresa, ¿cuántos días de vacaciones anticipadas puedo pedir y quién gestiona RRHH?
+--- Respuesta del Modelo ---
+Según la política interna de beneficios y seguridad, tienes la capacidad de solicitar hasta 7 días hábiles de vacaciones anticipadas, previa aprobación del líder de proyecto y del departamento de Recursos Humanos (gestionado por la directora Laura Martínez).
+
+(Tiempo de respuesta: 23.00 s)
+
+==============================================================================
+[4/5] Protocolo técnico
+Pregunta: Detecté una fuga en AWS, ¿en cuánto tiempo debo reportarla, a qué canal y qué cifrado exige la norma?
+--- Respuesta del Modelo ---
+Según la política interna de Innovatech Colombia 2027, cualquier fuga de datos detectada en AWS o en la nube (Vercel) debe ser reportada en un plazo inferior a 2 horas al canal de emergencia interno de Slack: #sec-incidentes-urgente o llamando a la extensión interna 809. La norma también especifica que para bases de datos sensibles, el cifrado obligatorio es AES-256 con rotación trimestral obligatoria de llaves criptográficas.
+
+(Tiempo de respuesta: 67.68 s)
+
+==============================================================================
+[5/5] Anti-alucinación
+Pregunta: ¿Cuál es el horario de atención de la cafetería los sábados en Innovatech?
+--- Respuesta del Modelo ---
+Esa información no se encuentra en la política interna 2027.
+
+(Tiempo de respuesta: 39.61 s)
+
